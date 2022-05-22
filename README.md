@@ -9,6 +9,8 @@
 
 <iframe src="/assets/html/Windows11-16.html">您的浏览器不支持iframe</iframe>
 
+[看不清？点我](/assets/html/Windows11-16.html)
+
 ## 成员列表
 [LEMON-x64-Win11](https://space.bilibili.com/696040999)  
 [Untitled_Notepad](https://space.bilibili.com/453790717)  
