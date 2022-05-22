@@ -1,3 +1,13 @@
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?900745f5364a23269d0f95e30b897c14";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
 # scratchwin11
 ## 视频预览
 
@@ -10,6 +20,9 @@
 <iframe src="/assets/html/Windows11-16.html">您的浏览器不支持iframe</iframe>
 
 [看不清？点我](/assets/html/Windows11-16.html)
+
+## 详情信息
+[详情信息](xiangqing.html)
 
 ## 成员列表
 [LEMON-x64-Win11](https://space.bilibili.com/696040999)  
