@@ -12,7 +12,7 @@
 [看不清？点我](/assets/html/Windows11-16.html)
 
 ## 详情信息
-[详情信息](xiangqing.html)
+[详情信息](xiangqing)
 
 ## 成员列表
 [LEMON-x64-Win11](https://space.bilibili.com/696040999)
