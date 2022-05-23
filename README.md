@@ -8,9 +8,7 @@
 
 ## 预览
 
-<iframe src="/assets/html/Windows11-16.html">您的浏览器不支持iframe</iframe>
-
-[看不清？点我](/assets/html/Windows11-16.html)
+[点我体验](/assets/html/Windows11-16.html)
 
 ## 功能
 [详情信息](xiangqing)
