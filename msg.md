@@ -1,3 +1,2 @@
 ## 评论区
-<iframe width="100%" height="100%" src="https://www.877771.xyz/others/comments/3246798.html" ></iframe>
-<style>body, html {padding:0;margin:0}</style>
+<script src=//npm.elemecdn.com/@waline/client></script><div id=waline> </div> <script>Waline({el:"#waline",serverURL:"https://waline-877771-xyz.vercel.app/"});</script>
