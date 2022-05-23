@@ -12,15 +12,9 @@
 
 [看不清？点我](/assets/html/Windows11-16.html)
 
-## 详情信息
+## 功能
 [详情信息](xiangqing)
 [留言板](msg)
 
 ## 成员列表
-[LEMON-x64-Win11](https://space.bilibili.com/696040999)
-[Untitled_Notepad](https://space.bilibili.com/453790717)
-[Z先生scratch](https://space.bilibili.com/1534430885)
-[神岛面条](https://space.bilibili.com/1189800929)
-[不更新的悠](https://space.bilibili.com/500301859)
-[果子系统](https://space.bilibili.com/196597575)
-[科技改变时代_TCTA](https://space.bilibili.com/1433776051)
+<iframe width="100%" height="100%" src="./assets/html/LEMON.htm" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
