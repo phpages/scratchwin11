@@ -13,6 +13,7 @@
 
 ## 详情信息
 [详情信息](xiangqing)
+[留言板](msg)
 
 ## 成员列表
 [LEMON-x64-Win11](https://space.bilibili.com/696040999)
