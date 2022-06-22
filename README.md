@@ -12,7 +12,7 @@
 
 ## 功能
 [详情信息](xiangqing)
-[留言板](msg)
+[留言板](https://scratchwin11.freeflarum.com/)
 
 ## 成员列表
 ![Image](/assets/html/Dev_Members.png "开发人员")
